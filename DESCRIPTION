@@ -1,0 +1,16 @@
+Package: hdcrt
+Type: Package
+Title: Hypothesis testing in high-dimensional censored-transformation models
+Version: 0.1.0
+Authors@R: person("Anonymous", "Author", role = c("aut", "cre"), email = "anonymous@example.com")
+Description: We provide an efficient censored rank-based test statistic for hypothesis testing in high-dimensional censored-transformation models. Both global test and partial test are supported.
+License: GPL (>= 2)
+Imports: Matrix
+Repository: github
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+URL: https://github.com/AnonymousSata/hscrt
+BugReports: https://github.com/AnonymousSata/hscrt/issues
+RoxygenNote: 7.3.2
+NeedsCompilation: yes
