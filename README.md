@@ -8,7 +8,7 @@ Hypothesis testing in high-dimensional censored-transformation models. This pack
     #install.packages("devtools")
     #install.packages("Rcpp")
     library(devtools)
-    install_github("AnonymousSata/hdcrt")
+    install_github("AnonymousStat/hdcrt")
 
 # Usage
 
